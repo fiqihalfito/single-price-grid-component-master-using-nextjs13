@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-Applying Font if using Turbopack NextJS 13. As next@13.0.6, turbopack can't apply font family either in development or at production. I have to put google font link in ```<head>``` and a little bit setting and boom. the font display correctly.
+Applying Font if using Turbopack NextJS 13. As next@13.0.6, turbopack can't apply font family either in development or at production. I have to put google font link in ```<head>``` and a little bit setting and boom. the font displays correctly.
 
 
 ### Useful resources
