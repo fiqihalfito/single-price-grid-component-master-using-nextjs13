@@ -18,7 +18,7 @@ module.exports = {
         }
       },
       fontFamily: {
-        karla: ["var(--font-karla)"]
+        karla: ['"Karla"']
       }
     },
   },
